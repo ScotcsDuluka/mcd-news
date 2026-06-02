@@ -2,15 +2,15 @@
   "version": 1,
   "entries": [
     {
-      "title": "Welcome to Custom News!",
+      "title": "Minecraft Dungeons II",
       "tag": "News",
-      "category": "Minecraft Dungeons",
+      "category": "Minecraft Dungeons II is coming",
       "date": "2025-06-03",
-      "text": "Your custom news feed is working! Edit this news.json file next to version.dll.",
-      "playPageImage": { "title": "custom-news", "url": "" },
+      "text": "YThe next chapter of Minecraft Dungeons begins in the fall of 2026! A new threat stirs, ready to descend upon the land and its inhabitants to cause unspeakable mayhem. Become a hero and take on foes unlike anything you’ve faced before, journey through long‑forgotten locations, and clash with the forces of evil once more! ",
+      "playPageImage": { "title": "custom-news", "url": "https://www.minecraft.net/content/dam/minecraftnet/games/spicewood/key-art/Spicewood_Landing-Page_Trailer-Thumbnail.jpg" },
       "newsPageImage": { "title": "custom-news", "url": "", "dimensions": { "width": 772, "height": 350 } },
-      "readMoreLink": "",
-      "cardBorder": false,
+      "readMoreLink": "https://www.minecraft.net/en-us/about-dungeons-ii",
+      "cardBorder": true,
       "newsType": ["Dungeons"],
       "id": "custom-001"
     },
