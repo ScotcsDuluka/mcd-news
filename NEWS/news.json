@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "title": "Minecraft Dungeons II",
+      "tag": "news",
+      "category": "Minecraft for Windows",
+      "date": "2026-06-03",
+      "text": "The next chapter of Minecraft Dungeons begins in the fall of 2026!",
+      "playPageImage": {
+        "title": "MCD2_Wishlist_MinecraftLauncher_700x466.png",
+        "url": "/v2/images/MCD2WishlistMinecraftLauncher700x466.png"
+      },
+      "newsPageImage": {
+        "title": "MCD2_Wishlist_MinecraftLauncher_772x350.png",
+        "url": "/v2/images/MCD2WishlistMinecraftLauncher772x350.png",
+        "dimensions": { "width": 772, "height": 350 }
+      },
+      "readMoreLink": "https://www.minecraft.net/about-dungeons-ii",
+      "cardBorder": false,
+      "articleBody": "",
+      "newsType": ["Java", "Dungeons", "News page", "Bedrock", "Legends"],
+      "id": "51cdb188d37c5f6ff0b6385d94c432adc1cf90549701fa570a6a79d9772add59",
+      "needsTranslation": true
+    }
+  ]
+}
