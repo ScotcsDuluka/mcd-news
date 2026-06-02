@@ -10,7 +10,7 @@ from datetime import datetime
 PORT = 443
 BIND = '127.0.0.1'
 
-GITHUB_NEWS_URL = 'https://scotcsduluka.github.io/mcd-news/news.json'
+GITHUB_NEWS_URL = 'https://scotcsduluka.github.io/mcd-news/NEWS/news.json'
 
 # Real server - connect by IP to avoid hosts file loop
 REAL_IP = '150.171.110.98'
