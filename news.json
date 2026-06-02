@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "title": "Welcome to Custom News!",
+      "tag": "News",
+      "category": "Minecraft Dungeons",
+      "date": "2025-06-03",
+      "text": "Your custom news feed is working! Edit this news.json file next to version.dll.",
+      "playPageImage": { "title": "custom-news", "url": "" },
+      "newsPageImage": { "title": "custom-news", "url": "", "dimensions": { "width": 772, "height": 350 } },
+      "readMoreLink": "",
+      "cardBorder": false,
+      "newsType": ["Dungeons"],
+      "id": "custom-001"
+    },
+    {
+      "title": "How to Edit This",
+      "tag": "News",
+      "category": "Minecraft Dungeons",
+      "date": "2025-06-03",
+      "text": "Change title, text, tag fields. Save file. Restart game to see changes!",
+      "playPageImage": { "title": "edit-news", "url": "" },
+      "newsPageImage": { "title": "edit-news", "url": "", "dimensions": { "width": 772, "height": 350 } },
+      "readMoreLink": "",
+      "cardBorder": false,
+      "newsType": ["Dungeons"],
+      "id": "custom-002"
+    }
+  ]
+}
