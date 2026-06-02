@@ -3,29 +3,25 @@
   "entries": [
     {
       "title": "Minecraft Dungeons II",
-      "tag": "News",
-      "category": "Minecraft Dungeons II is coming",
-      "date": "2025-06-03",
-      "text": "YThe next chapter of Minecraft Dungeons begins in the fall of 2026! A new threat stirs, ready to descend upon the land and its inhabitants to cause unspeakable mayhem. Become a hero and take on foes unlike anything you’ve faced before, journey through long‑forgotten locations, and clash with the forces of evil once more! ",
-      "playPageImage": { "title": "custom-news", "url": "https://www.minecraft.net/content/dam/minecraftnet/games/spicewood/key-art/Spicewood_Landing-Page_Trailer-Thumbnail.jpg" },
-      "newsPageImage": { "title": "custom-news", "url": "", "dimensions": { "width": 772, "height": 350 } },
-      "readMoreLink": "https://www.minecraft.net/en-us/about-dungeons-ii",
-      "cardBorder": true,
-      "newsType": ["Dungeons"],
-      "id": "custom-001"
-    },
-    {
-      "title": "How to Edit This",
-      "tag": "News",
-      "category": "Minecraft Dungeons",
-      "date": "2025-06-03",
-      "text": "Change title, text, tag fields. Save file. Restart game to see changes!",
-      "playPageImage": { "title": "edit-news", "url": "" },
-      "newsPageImage": { "title": "edit-news", "url": "", "dimensions": { "width": 772, "height": 350 } },
-      "readMoreLink": "",
+      "tag": "news",
+      "category": "Minecraft for Windows",
+      "date": "2026-06-03",
+      "text": "The next chapter of Minecraft Dungeons begins in the fall of 2026!",
+      "playPageImage": {
+        "title": "MCD2_Wishlist_MinecraftLauncher_700x466.png",
+        "url": "/v2/images/MCD2WishlistMinecraftLauncher700x466.png"
+      },
+      "newsPageImage": {
+        "title": "MCD2_Wishlist_MinecraftLauncher_772x350.png",
+        "url": "/v2/images/MCD2WishlistMinecraftLauncher772x350.png",
+        "dimensions": { "width": 772, "height": 350 }
+      },
+      "readMoreLink": "https://www.minecraft.net/about-dungeons-ii",
       "cardBorder": false,
-      "newsType": ["Dungeons"],
-      "id": "custom-002"
+      "articleBody": "",
+      "newsType": ["Java", "Dungeons", "News page", "Bedrock", "Legends"],
+      "id": "51cdb188d37c5f6ff0b6385d94c432adc1cf90549701fa570a6a79d9772add59",
+      "needsTranslation": true
     }
   ]
 }
